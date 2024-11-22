@@ -40,7 +40,7 @@ A temporal analysis of service schedules reveals clear patterns:
 - **Off-Peak Hours**: Reduced service levels during midday and late evenings
 - **Key Takeaway**: Prioritizing resource allocation during peak hours while improving off-peak coverage
 
-- ![alt text](./image/image-2.png)
+![alt text](./image/image-2.png)
 
 ### 4. Spatial Analysis
 Using hexagonal grid analysis, the spatial distribution of transit services reveals:
@@ -49,7 +49,7 @@ Using hexagonal grid analysis, the spatial distribution of transit services reve
 - **Coverage Gaps**: Peripheral and suburban areas exhibit sparse service density
 - **Temporal Patterns**: Service levels vary significantly throughout the day
 
-- ![alt text](./image/image-1.png)
+![alt text](./image/image-1.png)
 
 ### 5. Transit Network Visualization
 A complete visualization of the Metro Vancouver transit network reveals:
@@ -58,7 +58,7 @@ A complete visualization of the Metro Vancouver transit network reveals:
 - **Service Hierarchy**: SkyTrain lines act as high-speed backbones
 - **Key Observations**: Sparse connections near boundary areas need better transit integration
 
-- ![alt text](./image/image.png)
+![alt text](./image/image.png)
 
 ## Analysis Methods
 
